@@ -32,6 +32,7 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 | `🔬` | `researched`  | `&` or `r` | Deep research, measurements, comparisons, read sources |
 | `🚀` | `constructed` | `^` or `c` | Developed an implementation or equivalent              |
 | `🧠` | `mastered`    | `#` or `m` | Expert level; teach, research, and build at scale      |
+| `👑` | `expert`      | `%` or `x` | Recognized authority; creates standards or leads field |
 
 
 - Now you can create pull request and merge this to main branch of your fork (not to original repo)
